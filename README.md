@@ -6,7 +6,7 @@
 
 ## Features
 
-- Except Command-line arguments
+- Accept Command-line arguments
 - Create a folder
 - Move to a folder
 - Create a Python file
